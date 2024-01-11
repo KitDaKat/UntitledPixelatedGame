@@ -9,6 +9,6 @@ This is my first project on Unity and Github, so expect problems, and play it wh
 
 # Install instructions
 
-Just go to the Unity project titled Pixels[Version Number, find the latest one] then open it.
+Just go to the Unity project titled Pixels[Version Number], (find the latest one) then open it.
 
 # Have fun!
